@@ -1,0 +1,45 @@
+7/13/2023 12:50:50 AM ## ----------admin log in ----------
+7/13/2023 12:51:19 AM ## add new Category: tra dao
+7/13/2023 12:51:26 AM ## delete Category: tra dao
+7/13/2023 12:51:28 AM ## ----------admin log out ----------
+7/13/2023 1:12:37 AM ## ----------admin log in ----------
+7/13/2023 1:15:23 AM ## add new Food: Trà đào cam xã
+7/13/2023 1:15:40 AM ## add new Food: Trà Ôlong
+7/13/2023 1:16:20 AM ## ----------admin log out ----------
+7/13/2023 1:30:41 AM ## ----------admin log in ----------
+7/13/2023 1:30:55 AM ## ----------admin log out ----------
+7/13/2023 1:43:14 AM ## ----------admin log in ----------
+7/13/2023 1:43:34 AM ## ----------admin log out ----------
+7/13/2023 1:43:45 AM ## ----------haiyen log in ----------
+7/13/2023 1:44:34 AM ## change Bàn 20 to Bàn 15
+7/13/2023 1:44:41 AM ## check new Bill, ID = 9, Total price = 122000
+7/13/2023 1:46:45 AM ## ----------haiyen log out ----------
+7/13/2023 5:36:59 PM ## ----------admin log in ----------
+7/13/2023 5:37:40 PM ## add new Account: thanhthuy
+7/13/2023 5:37:54 PM ## delete Account: thanhthuy
+7/13/2023 5:38:06 PM ## delete Account: tranvy
+7/13/2023 5:39:14 PM ## add new Account: ThanhThuy
+7/13/2023 5:39:29 PM ## ----------admin log out ----------
+7/13/2023 5:39:39 PM ## ----------ThanhThuy log in ----------
+7/13/2023 5:40:02 PM ## change account's information
+7/13/2023 5:40:28 PM ## ----------ThanhThuy log out ----------
+7/13/2023 5:56:26 PM ## ----------ThanhThuy log in ----------
+7/13/2023 5:57:33 PM ## check new Bill, ID = 10, Total price = 135000
+7/13/2023 6:01:59 PM ## check new Bill, ID = 3, Total price = 25000
+7/13/2023 6:02:10 PM ## check new Bill, ID = 1, Total price = 44000
+7/13/2023 6:04:54 PM ## ----------haiyen log in ----------
+7/13/2023 6:05:22 PM ## ----------haiyen log out ----------
+7/13/2023 6:05:32 PM ## ----------admin log in ----------
+7/13/2023 6:06:08 PM ## delete Table, ID = 30
+7/13/2023 6:06:48 PM ## add new Table, ID = 31
+7/13/2023 6:07:07 PM ## delete Table, ID = 31
+7/13/2023 6:07:19 PM ## add new Table, ID = 32
+7/13/2023 6:07:26 PM ## delete Table, ID = 32
+7/13/2023 6:07:58 PM ## ----------admin log out ----------
+7/13/2023 6:08:13 PM ## ----------haiyen log in ----------
+7/13/2023 6:08:36 PM ## ----------haiyen log out ----------
+7/13/2023 9:57:46 PM ## ----------admin log in ----------
+7/13/2023 10:00:27 PM ## add new Food: Trà1
+7/13/2023 10:00:49 PM ## check new Bill, ID = 12, Total price = 10000
+7/13/2023 10:01:11 PM ## delete Food: Trà1
+7/13/2023 10:01:14 PM ## ----------admin log out ----------

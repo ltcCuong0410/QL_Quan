@@ -1,0 +1,53 @@
+7/12/2023 6:33:06 PM ## ----------admin log in ----------
+7/12/2023 6:33:58 PM ## ----------admin log out ----------
+7/12/2023 6:34:00 PM ## ----------admin log in ----------
+7/12/2023 6:59:25 PM ## ----------admin log in ----------
+7/12/2023 7:01:40 PM ## ----------admin log in ----------
+7/12/2023 7:03:00 PM ## ----------admin log in ----------
+7/12/2023 7:05:16 PM ## ----------admin log in ----------
+7/12/2023 7:06:01 PM ## ----------admin log in ----------
+7/12/2023 7:07:52 PM ## check new Bill, ID = 4, Total price = 30400
+7/12/2023 7:14:59 PM ## ----------tranvy log in ----------
+7/12/2023 7:16:25 PM ## ----------tranvy log out ----------
+7/12/2023 7:18:09 PM ## ----------admin log in ----------
+7/12/2023 7:22:22 PM ## change Bàn 2 to Bàn 5
+7/12/2023 7:22:42 PM ## change Bàn 5 to Bàn 7
+7/12/2023 7:23:29 PM ## change Bàn 2 to Bàn 7
+7/12/2023 7:25:20 PM ## check new Bill, ID = 2, Total price = 107000
+7/12/2023 7:25:59 PM ## ----------admin log out ----------
+7/12/2023 7:37:08 PM ## ----------admin log in ----------
+7/12/2023 7:38:08 PM ## check new Bill, ID = 8, Total price = 41400
+7/12/2023 7:41:46 PM ## ----------admin log out ----------
+7/12/2023 7:41:57 PM ## ----------tranvy log in ----------
+7/12/2023 7:43:28 PM ## ----------tranvy log out ----------
+7/12/2023 7:55:53 PM ## ----------admin log in ----------
+7/12/2023 7:56:41 PM ## add new Food: Bạc Sỉu
+7/12/2023 7:57:30 PM ## add new Food: Steamy Beans Coffee
+7/12/2023 7:57:45 PM ## add new Food: Steamy Beans Coffee
+7/12/2023 7:59:24 PM ## add new Food: Capuchino Coffee
+7/12/2023 8:00:01 PM ## add new Food: Chè bưởi
+7/12/2023 8:00:16 PM ## add new Food: Bánh tráng cuốn sốt me
+7/12/2023 8:00:58 PM ## add new Food:  Nước ép dứa
+7/12/2023 8:01:24 PM ## add new Food: Nước ép trái cây ngon việt quất
+7/12/2023 8:02:03 PM ## delete Food: Ốc nhồi chiên
+7/12/2023 8:02:17 PM ## delete Food: Cà phê sữa
+7/12/2023 8:02:29 PM ## delete Food: Steamy Beans Coffee
+7/12/2023 8:03:40 PM ## ----------tranvy log in ----------
+7/12/2023 8:03:48 PM ## ----------tranvy log out ----------
+7/12/2023 8:03:55 PM ## ----------admin log in ----------
+7/12/2023 8:05:57 PM ## add new Account: haiyen
+7/12/2023 8:06:08 PM ## ----------admin log out ----------
+7/12/2023 8:06:15 PM ## ----------haiyen log in ----------
+7/12/2023 8:06:33 PM ## change account's information
+7/12/2023 8:06:42 PM ## ----------haiyen log out ----------
+7/12/2023 8:06:47 PM ## ----------haiyen log in ----------
+7/12/2023 8:06:49 PM ## ----------haiyen log out ----------
+7/12/2023 8:07:09 PM ## ----------admin log in ----------
+7/12/2023 8:07:29 PM ## set password for Account: thanhminh
+7/12/2023 8:07:34 PM ## delete Account: thanhminh
+7/12/2023 8:08:14 PM ## ----------admin log out ----------
+7/12/2023 9:05:24 PM ## ----------admin log in ----------
+7/12/2023 9:08:39 PM ## add new Category: 125476216567
+7/12/2023 9:09:04 PM ## delete Category: 
+7/12/2023 9:14:05 PM ## ----------admin log in ----------
+7/12/2023 9:15:55 PM ## ----------admin log out ----------

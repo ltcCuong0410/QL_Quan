@@ -1,0 +1,24 @@
+7/19/2023 2:53:31 PM ## ----------admin log in ----------
+7/19/2023 2:54:04 PM ## add new Food: cafe sua
+7/19/2023 2:54:19 PM ## delete Food: cafe sua
+7/19/2023 2:54:42 PM ## add new Category: CaCAO
+7/19/2023 2:54:51 PM ## delete Category: CaCAO
+7/19/2023 2:56:20 PM ## ----------admin log in ----------
+7/19/2023 2:56:53 PM ## change Bàn 3 to Bàn 5
+7/19/2023 2:57:00 PM ## check new Bill, ID = 14, Total price = 42000
+7/19/2023 2:58:14 PM ## ----------admin log out ----------
+7/19/2023 2:58:22 PM ## ----------haiyen log in ----------
+7/19/2023 2:58:30 PM ## ----------haiyen log out ----------
+7/19/2023 3:04:14 PM ## ----------admin log in ----------
+7/19/2023 3:08:06 PM ## ----------admin log in ----------
+7/19/2023 3:08:59 PM ## change Bàn 15 to Bàn 3
+7/19/2023 3:09:06 PM ## check new Bill, ID = 15, Total price = 118000
+7/19/2023 3:09:46 PM ## change account's information
+7/19/2023 3:10:07 PM ## add new Food: cacao
+7/19/2023 3:10:17 PM ## delete Food: cacao
+7/19/2023 3:10:37 PM ## add new Category: cacao
+7/19/2023 3:10:45 PM ## delete Category: cacao
+7/19/2023 3:11:00 PM ## delete Account: Minh
+7/19/2023 3:11:13 PM ## ----------admin log out ----------
+7/19/2023 3:11:20 PM ## ----------haiyen log in ----------
+7/19/2023 3:11:28 PM ## ----------haiyen log out ----------
